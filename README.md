@@ -13,6 +13,6 @@ An den folgenden Schulen werden schon Arbeitsgemeinschaften angeboten.
 
 **Zusammen schafft man mehr.** Vielleicht kann auch deine Schule bald mal auf dieser Seite stehen! Wir freuen uns auf eine Anfrage: <community.der.inf.ags@gmail.com>
 
-- Annette-von-Droste-Hülshoff-Gymnasium
-- Gymnasium an der Koblenzer Straße
-- Schloß Gymnasium.
+- Annette-von-Droste-Hülshoff-Gymnasium -> Annette-Softwareentwicklung
+- Gymnasium an der Koblenzer Straße -> Kobi-Softwareentwicklung
+- Schloß Gymnasium -> Schloß-Gymnasium
